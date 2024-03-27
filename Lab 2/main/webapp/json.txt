@@ -1,0 +1,9 @@
+{"Samorezi" : [
+  {
+    "Material": "Latun",
+    "Golovka": "Potainaya",
+    "Shlits": "Pryamoi",
+    "Rezba": "Redkaya",
+    "Naznachenie": "Drevesina"
+  }
+  ,{"Material":"Nerzhaveushaya stal","Golovka":"Polupotainya","Shlits":"Praymoi","Rezba":"Chastaya","Naznachenie":"Universal"},{"Material":"Углеродитсая сталь","Golovka":"Цилиндрическая","Shlits":"Шестигранный","Rezba":"Редкая","Naznachenie":"Листовой металл"}]}
